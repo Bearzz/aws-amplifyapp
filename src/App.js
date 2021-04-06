@@ -1,4 +1,4 @@
-/* import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -17,14 +17,15 @@ function App() {
         >
           Learn React
         </a>
+         <h1>Hello from Steve on V2</h1>
       </header>
     </div>
   );
 }
 
-export default App; */
+export default App;
 
-import React from 'react';
+/* import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -39,4 +40,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; */
